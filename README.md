@@ -23,7 +23,8 @@
 - 🐒 [**Monkey Typer Game**](https://github.com/alessandra3747/MonkeyTyperGame) – A fun typing speed game to test your skills!  
 - ✅ [**To-Do List**](https://github.com/alessandra3747/To-Do-List) – A simple and efficient to-do list application for task management.  
 - 🎨 [**MyPaint**](https://github.com/alessandra3747/MyPaint) – A lightweight drawing app for unleashing your creativity.  
-- 🚗 [**Car Company Management App**](https://github.com/alessandra3747/CarCompanyManagementApp) – An application for managing car company data and processes.  
+- 🚗 [**Car Company Management App**](https://github.com/alessandra3747/CarCompanyManagementApp) – An application for managing car company data and processes.
+- ❄️ [**Christmas Sleigh**](https://github.com/alessandra3747/ChristmasSleigh) – A simple sleigh driving game that includes threads and presents them.  
 - 🎓 [**PJATK Projects**](https://github.com/alessandra3747/PJATK) – List of selected projects completed during my studies at PJAIT.  
 
 <br>
