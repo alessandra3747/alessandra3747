@@ -22,7 +22,7 @@
 
 - 🎓 [**PJATK Projects**](https://github.com/alessandra3747/PJATK) – List of selected projects completed during my studies at PJAIT.
 - 🐴 [**Horse Betting App**](https://github.com/alessandra3747/TPO/tree/main/TPO6_FA_S30395) - Application made in Spring Framework by using REST API architecture.
-- 💡  [**INSIGHTED App**](https://github.com/alessandra3747/PPY/INSIGHTED) - A digital teachers journal made in Python that supports student management, supervision of pupils' assessments and progress, uses an intuitive UI
+- 💡  [**INSIGHTED App**](https://github.com/alessandra3747/PPY/tree/main/InsightEd) - A digital teachers journal made in Python that supports student management, supervision of pupils' assessments and progress, uses an intuitive UI
 - ❄️ [**Christmas Sleigh**](https://github.com/alessandra3747/ChristmasSleigh) – A simple sleigh driving game that includes threads and presents them.  
 - 🐒 [**Monkey Typer Game**](https://github.com/alessandra3747/MonkeyTyperGame) – A fun typing speed game to test your skills!  
 - ✅ [**To-Do List**](https://github.com/alessandra3747/To-Do-List) – A simple and efficient to-do list application for task management.  
