@@ -38,6 +38,15 @@
 
 <div align="center">
 
+### ⚙️ Currently working on:
+🔎 [**MRI Brain Scan Analysis**](https://github.com/alessandra3747/MRI_Brain_Scan_Analysis) </br>
+Transforming unprocessed MRI brain scan data into meaningful visual insights in Power BI, using Python for image analysis and data preparation.
+</div>
+
+---
+
+<div align="center">
+
 ### 📊 My GitHub Stats:
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=alessandra3747&show_icons=true&theme=tokyonight)
 
