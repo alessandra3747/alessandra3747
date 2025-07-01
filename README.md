@@ -21,6 +21,8 @@
 <div style="margin-left: 100px; text-align: left;">
 
 - 🎓 [**PJATK Projects**](https://github.com/alessandra3747/PJATK) – List of selected projects completed during my studies at PJAIT.
+- 🔎 [**MRI Brain Scan Analysis**](https://github.com/alessandra3747/MRI_Brain_Scan_Analysis) - 
+Transforming unprocessed MRI brain scan data into meaningful visual insights in Power BI, using Python for image analysis and data preparation.
 - 🐴 [**Horse Betting App**](https://github.com/alessandra3747/TPO/tree/main/TPO6_FA_S30395) - Application made in Spring Framework by using REST API architecture.
 - 💡  [**INSIGHTED App**](https://github.com/alessandra3747/PPY/tree/main/InsightEd) - A digital teachers journal made in Python that supports student management, supervision of pupils' assessments and progress, uses an intuitive UI
 - 💲 [**Revenue Recognition App**](https://github.com/alessandra3747/APBD/tree/main/RevenueRecognitionApi) – A RESTful application built in C# using .NET, designed to manage and automate revenue recognition processes, enabling structured and scalable financial operations through well-defined API endpoints
@@ -37,8 +39,7 @@
 <div align="center">
 
 ### ⚙️ Currently working on:
-🔎 [**MRI Brain Scan Analysis**](https://github.com/alessandra3747/MRI_Brain_Scan_Analysis) - 
-Transforming unprocessed MRI brain scan data into meaningful visual insights in Power BI, using Python for image analysis and data preparation.
+🔎 [**MRI Brain Scan Analysis**](https://github.com/alessandra3747/MRI_Brain_Scan_Analysis)
 </div>
 
 ---
