@@ -30,8 +30,6 @@
 - 🎨 [**MyPaint**](https://github.com/alessandra3747/MyPaint) – A lightweight drawing app for unleashing your creativity.  
 - 🚗 [**Car Company Management App**](https://github.com/alessandra3747/CarCompanyManagementApp) – An application for managing car company data and processes.
 
-
-
 </div>
 
 ---
@@ -39,17 +37,17 @@
 <div align="center">
 
 ### ⚙️ Currently working on:
-🔎 [**MRI Brain Scan Analysis**](https://github.com/alessandra3747/MRI_Brain_Scan_Analysis) </br>
+🔎 [**MRI Brain Scan Analysis**](https://github.com/alessandra3747/MRI_Brain_Scan_Analysis) - 
 Transforming unprocessed MRI brain scan data into meaningful visual insights in Power BI, using Python for image analysis and data preparation.
 </div>
 
-
-
 ---
 
+<div align="center">
+  
 ## 💻 Tech Stack
 
-<p align="left">
+<p align="center">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
@@ -90,8 +88,7 @@ Transforming unprocessed MRI brain scan data into meaningful visual insights in 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   </a>
 </p>
-
-
+</div>
 
 ---
 
