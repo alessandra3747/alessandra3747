@@ -6,7 +6,7 @@
 💻 Passionate about Java, Spring, and AWS  
 🚀 Always learning and building new projects
 
-<br>
+
 
 </div>
 
@@ -30,7 +30,7 @@
 - 🎨 [**MyPaint**](https://github.com/alessandra3747/MyPaint) – A lightweight drawing app for unleashing your creativity.  
 - 🚗 [**Car Company Management App**](https://github.com/alessandra3747/CarCompanyManagementApp) – An application for managing car company data and processes.
 
-<br>
+
 
 </div>
 
@@ -43,7 +43,7 @@
 Transforming unprocessed MRI brain scan data into meaningful visual insights in Power BI, using Python for image analysis and data preparation.
 </div>
 
-</br>
+
 
 ---
 
@@ -91,7 +91,7 @@ Transforming unprocessed MRI brain scan data into meaningful visual insights in 
   </a>
 </p>
 
-</br>
+
 
 ---
 
