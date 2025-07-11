@@ -39,7 +39,7 @@ Transforming unprocessed MRI brain scan data into meaningful visual insights in 
 <div align="center">
 
 ### ⚙️ Currently working on:
-🔎 [**MRI Brain Scan Analysis**](https://github.com/alessandra3747/MRI_Brain_Scan_Analysis)
+🔎 [**MRI Brain Scan Analysis**](https://github.com/alessandra3747/MRI_Brain_Scan_Analysis) - improving results and ML model
 </div>
 
 ---
@@ -48,7 +48,7 @@ Transforming unprocessed MRI brain scan data into meaningful visual insights in 
   
 ## 💻 Tech Stack
 
-<p align="center">
+<div align="center">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python" width="40" height="40"/>
   </a>
@@ -92,7 +92,7 @@ Transforming unprocessed MRI brain scan data into meaningful visual insights in 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40"/>
   </a>
-</p>
+</div>
 </div>
 
 ---
