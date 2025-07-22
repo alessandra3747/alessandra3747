@@ -3,7 +3,7 @@
 ### 👋 Hi, I'm Aleksandra Fus!
 
 🎓 Student at [PJAIT](https://pja.edu.pl/)  
-💻 Passionate about Java, Spring, and AWS  
+💻 Passionate about C#, Java, Cybersecurity and AWS  
 🚀 Always learning and building new projects
 
 
