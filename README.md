@@ -3,7 +3,7 @@
 ### 👋 Hi, I'm Aleksandra Fus!
 
 🎓 Student at [PJAIT](https://pja.edu.pl/)  
-💻 Enthusiast of C# and Java development, cloud technologies (AWS, Microsoft Azure, Oracle), and cybersecurity. 
+💻 Enthusiast of C# and Java development, cloud technologies (AWS, Microsoft Azure, OCI), and cybersecurity. 
 🚀 Always learning and building new projects
 
 
