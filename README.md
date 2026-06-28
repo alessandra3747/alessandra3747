@@ -2,43 +2,48 @@
 
 ### 👋 Hi, I'm Aleksandra Fus!
 
-🎓 Student at [PJAIT](https://pja.edu.pl/)  
-💻 Enthusiast of C# and Java development, cloud technologies, and cybersecurity. </br>
-🚀 Always learning and building new projects
-
-
-
 </div>
 
 ---
 
 <div align="center">
 
-### 🧰 My Projects
+### Highlight of my PJATK Projects
 
 </div>
 
 <div style="margin-left: 100px; text-align: left;">
 
-- 🎓 [**PJATK Projects**](https://github.com/alessandra3747/PJATK) – List of selected projects completed during my studies at **PJAIT**.
-- 🔎 [**MRI Brain Scan Analysis**](https://github.com/alessandra3747/MRI_Brain_Scan_Analysis) - A full-stack application leveraging Python for **AI-powered image analysis and real-time classification** of MRI brain scan data, complemented by interactive Power BI dashboards for deep visual insights into Alzheimer's disease progression.
-- 🐴 [**Horse Betting App**](https://github.com/alessandra3747/TPO/tree/main/TPO6_FA_S30395) - Application made in Spring Framework by using REST API architecture **simulating horse betting experience**.
-- 💡  [**INSIGHTED App**](https://github.com/alessandra3747/PPY/tree/main/InsightEd) - A **digital teachers journal** made in Python that supports student management, supervision of pupils' assessments and progress, uses an intuitive UI
-- 💲 [**Revenue Recognition App**](https://github.com/alessandra3747/APBD/tree/main/RevenueRecognitionApi) – A RESTful application built in C# using .NET, designed to **manage and automate revenue recognition processes**, enabling structured and scalable financial operations through well-defined API endpoints
-- ❄️ [**Christmas Sleigh**](https://github.com/alessandra3747/ChristmasSleigh) – A **simple sleigh driving game** that includes threads and presents them.  
-- 🐒 [**Monkey Typer Game**](https://github.com/alessandra3747/MonkeyTyperGame) – A fun **typing speed game** to test your skills!  
-- ✅ [**To-Do List**](https://github.com/alessandra3747/To-Do-List) – A simple and efficient **to-do list application** for task management.  
-- 🎨 [**MyPaint**](https://github.com/alessandra3747/MyPaint) – A lightweight **drawing app** for unleashing your creativity.  
-- 🚗 [**Car Company Management App**](https://github.com/alessandra3747/CarCompanyManagementApp) – An application for **managing car company data and processes**.
+- 🔎 [**MRI Brain Scan Analysis**](https://github.com/alessandra3747/MRI_Brain_Scan_Analysis)
 
-</div>
+A full-stack application leveraging Python for **AI-powered image analysis and real-time classification** of MRI brain scan data, complemented by interactive Power BI dashboards for deep visual insights into Alzheimer's disease progression.
+- 🐴 [**Horse Betting App**](https://github.com/alessandra3747/TPO/tree/main/TPO6_FA_S30395)
 
----
+Application made in Spring Framework by using REST API architecture **simulating horse betting experience**.
+- 💡  [**INSIGHTED App**](https://github.com/alessandra3747/PPY/tree/main/InsightEd)
 
-<div align="center">
+A **digital teachers journal** made in Python that supports student management, supervision of pupils' assessments and progress, uses an intuitive UI
+- 💲 [**Revenue Recognition App**](https://github.com/alessandra3747/APBD/tree/main/RevenueRecognitionApi)
 
-### ⚙️ Currently working on:
-🔎 [**MRI Brain Scan Analysis**](https://github.com/alessandra3747/MRI_Brain_Scan_Analysis) - improving results and ML model
+A RESTful application built in C# using .NET, designed to **manage and automate revenue recognition processes**, enabling structured and scalable financial operations through well-defined API endpoints
+- ❄️ [**Christmas Sleigh**](https://github.com/alessandra3747/ChristmasSleigh)
+
+A **simple sleigh driving game** that includes threads and presents them.  
+- 🐒 [**Monkey Typer Game**](https://github.com/alessandra3747/MonkeyTyperGame)
+
+A fun **typing speed game** to test your skills!  
+- ✅ [**To-Do List**](https://github.com/alessandra3747/To-Do-List)
+
+A simple and efficient **to-do list application** for task management.  
+- 🎨 [**MyPaint**](https://github.com/alessandra3747/MyPaint)
+
+A lightweight **drawing app** for unleashing your creativity.  
+- 🚗 [**Car Company Management App**](https://github.com/alessandra3747/CarCompanyManagementApp)
+
+An application for **managing car company data and processes**.
+
+🎓 [**Complete list**](https://github.com/alessandra3747/PJATK)
+
 </div>
 
 ---
